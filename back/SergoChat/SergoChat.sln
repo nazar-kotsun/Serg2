@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SergoChat", "SergoChat\SergoChat.csproj", "{8F10A04B-37EF-4569-A7D8-50C386DBDE63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{1561254E-854D-4FA0-B7EB-E5B4C0C10737}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{5849EC2B-635B-4781-BBE5-06EE79B119E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F10A04B-37EF-4569-A7D8-50C386DBDE63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F10A04B-37EF-4569-A7D8-50C386DBDE63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F10A04B-37EF-4569-A7D8-50C386DBDE63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F10A04B-37EF-4569-A7D8-50C386DBDE63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1561254E-854D-4FA0-B7EB-E5B4C0C10737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1561254E-854D-4FA0-B7EB-E5B4C0C10737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1561254E-854D-4FA0-B7EB-E5B4C0C10737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1561254E-854D-4FA0-B7EB-E5B4C0C10737}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5849EC2B-635B-4781-BBE5-06EE79B119E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5849EC2B-635B-4781-BBE5-06EE79B119E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5849EC2B-635B-4781-BBE5-06EE79B119E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5849EC2B-635B-4781-BBE5-06EE79B119E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
